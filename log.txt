@@ -1,0 +1,11 @@
+commit ec4eea8997186edb8016d8dd976b24434ecaf3c4 (HEAD -> logging, origin/master, master)
+Author: dona.gjorgjievska@students.finki.ukim.mk <dona.gjorgjievska@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:14:12 2018 +0100
+
+    modify l1.txt
+
+commit c6590e1bc55bee8dc48fab6d83988f41a1aa6a98
+Author: dona.gjorgjievska@students.finki.ukim.mk <dona.gjorgjievska@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:12:49 2018 +0100
+
+    Initial commit
